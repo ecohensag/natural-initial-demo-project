@@ -2,13 +2,8 @@
 * :Mode S
 * :CP
 * <Natural Source Header
-/** New Program TEST2.
+/** New Program F1-PROG.
 /**
 /** :author Training
 /* TODO Enter your code here
-<<<<<<< HEAD
-write "hello master world" 
-=======
-write "this is conlict line" 
->>>>>>> refs/heads/feature1
 END
