@@ -4,11 +4,8 @@
 * <Natural Source Header
 /** New Program TEST2.
 /**
-/** :author Training
+/** :author local 2
 /* TODO Enter your code here
-<<<<<<< HEAD
 write "hello master world" 
-=======
 write "this is conlict line" 
->>>>>>> refs/heads/feature1
 END
