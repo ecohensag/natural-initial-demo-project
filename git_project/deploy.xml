@@ -71,7 +71,7 @@
     <property name="natural.ant.deploy.upload" value="YES" />
     <property name="natural.ant.deploy.scratch" value="NO" />
     <property name="natural.ant.repository.type" value="SVN" />
-    <property name="natural.ant.server.port" value="2800" />
+    <property name="natural.ant.server.port" value="2700" />
     <property name="natural.ant.project.name" value="git_project" />
     <property name="natural.ant.server.secured.environment" value="NO" />
     <property name="natural.ant.project.rootdir" value=".." />
@@ -90,7 +90,7 @@
     <property name="natural.ant.repository.module" value="git_project" />
     <property name="natural.ant.deploy.catalog" value="YES" />
     <property name="natural.ant.library.steplibs" value="TESTLIB;0;!;!" />
-    <property name="natural.ant.server.environment" value="localhost-2800" />
+    <property name="natural.ant.server.environment" value="localhost-2700" />
     <property name="natural.ant.server.password" value="" />
     <property name="natural.ant.server.username" value="TRAINING" />
     <property name="natural.ant.project.steplib.nsv" value="" />
